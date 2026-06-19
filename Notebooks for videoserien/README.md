@@ -1,0 +1,1 @@
+Jupyter notebooks som følger videoserien FinTech x EikLab. Disse notebooks filene vil fokusere på API-kall fra Alpaca, Tekniske indikatorer og Maskinlæring av historisk markedsdata.

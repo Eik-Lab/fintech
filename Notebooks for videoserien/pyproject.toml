@@ -1,0 +1,21 @@
+[project]
+name = "notebooks-for-videoserien"
+version = "0.1.0"
+description = "Jupyter notebooks som følger videoserien FinTech x EikLab. Disse notebooks filene vil fokusere på API-kall fra Alpaca, Tekniske indikatorer og maskinlæring av historisk markedsdata"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "alpaca-py>=0.43.4",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "mplfinance>=0.12.10b0",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "plotly>=6.8.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+]
